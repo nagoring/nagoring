@@ -1,4 +1,4 @@
-### Hi there 👋
+### Profile
 [![trophy](https://github-profile-trophy.vercel.app/?username=nagoring&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
