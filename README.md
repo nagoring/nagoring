@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=nagoring&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--
 **nagoring/nagoring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
