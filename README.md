@@ -1,5 +1,5 @@
 ### 🏆 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=nagoring&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nagoring&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
